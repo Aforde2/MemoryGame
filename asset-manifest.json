@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Aforde2/MemoryGame.git/static/css/main.7bb1b49f.css",
-    "main.js": "/Aforde2/MemoryGame.git/static/js/main.8976d8d1.js",
-    "static/js/787.69b12325.chunk.js": "/Aforde2/MemoryGame.git/static/js/787.69b12325.chunk.js",
-    "index.html": "/Aforde2/MemoryGame.git/index.html",
-    "main.7bb1b49f.css.map": "/Aforde2/MemoryGame.git/static/css/main.7bb1b49f.css.map",
-    "main.8976d8d1.js.map": "/Aforde2/MemoryGame.git/static/js/main.8976d8d1.js.map",
-    "787.69b12325.chunk.js.map": "/Aforde2/MemoryGame.git/static/js/787.69b12325.chunk.js.map"
+    "main.css": "/MemoryGame/static/css/main.7bb1b49f.css",
+    "main.js": "/MemoryGame/static/js/main.bd315c65.js",
+    "static/js/787.69b12325.chunk.js": "/MemoryGame/static/js/787.69b12325.chunk.js",
+    "index.html": "/MemoryGame/index.html",
+    "main.7bb1b49f.css.map": "/MemoryGame/static/css/main.7bb1b49f.css.map",
+    "main.bd315c65.js.map": "/MemoryGame/static/js/main.bd315c65.js.map",
+    "787.69b12325.chunk.js.map": "/MemoryGame/static/js/787.69b12325.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7bb1b49f.css",
-    "static/js/main.8976d8d1.js"
+    "static/js/main.bd315c65.js"
   ]
 }
